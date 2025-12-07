@@ -1,3 +1,21 @@
 {
-  "products": []
+  "products": [
+    {
+      "name": "23231",
+      "price": 1231231,
+      "slug": "123123123",
+      "desc": "123123123123123123123",
+      "features": [
+        "123123"
+      ],
+      "specs": [
+        "12312312"
+      ],
+      "usage": "123123123",
+      "variants": [],
+      "photos": [
+        "https://raw.githubusercontent.com/christopherpoptsis/rinkdude/main/images/1765149016234_na03qiw2f8.png"
+      ]
+    }
+  ]
 }
